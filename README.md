@@ -1,2 +1,2 @@
-# snake Cpp Game
-Simple game
+# Snake Game
+
