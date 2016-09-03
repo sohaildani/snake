@@ -1,2 +1,12 @@
 # Snake Game
-Snake Game is a C++ game 
+>A c++ project
+
+Snake game is built using C++
+
+##Tools used
+- Turbo C++
+
+##Directory used
+- graphics.h
+- iostream.h
+- conio.h
